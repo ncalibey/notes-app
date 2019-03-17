@@ -1,3 +1,0 @@
-My name is Nick.
-I'm learning NodeJS!
-I'll have a job, someday...
