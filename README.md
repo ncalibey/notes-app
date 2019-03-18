@@ -1,4 +1,5 @@
-# Notes
+# Notes ![notes version](https://img.shields.io/badge/version-1.0.0-orange.svg)
+
 Notes is a simple CLI notes application built as part of [Andrew Mead's](https://mead.io/) "[The Complete Node.js Developer Course](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview)" on Udemy. You can create, read, and delete individual notes, as well as list all your current notes. The notes are stored in a JSON file (`notes.json`) and consist of a `title` and a `body`.
 
 ## Installation
